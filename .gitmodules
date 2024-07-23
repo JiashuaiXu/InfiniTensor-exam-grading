@@ -1,0 +1,6 @@
+[submodule "exams"]
+	path = exams
+	url = git@github.com:JiashuaiXu/InfiniTensor-test-exam.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:JiashuaiXu/InfiniTensor-learning-cxx.git
